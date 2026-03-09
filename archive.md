@@ -5,16 +5,15 @@ permalink: /archive/
 ---
 
 <div class="archives-index">
-  <h1 class="page-heading">📚 文章归档</h1>
+  <h1 class="page-heading">文章归档</h1>
 
   <!-- 按类别归档 -->
   <section class="archive-categories">
-    <h2>📂 按类别</h2>
+    <h2>按类别</h2>
     <ul class="category-list">
       {% for category in site.categories %}
         <li>
           <a href="{{ '/category/' | append: category[0] | slugify | relative_url }}">
-            {% if category[0] == "Apple" %}🍎{% else %}📋{% endif %}
             {{ category[0] }}
           </a>
           <span class="post-count">({{ category[1].size }} 篇)</span>
@@ -29,7 +28,7 @@ permalink: /archive/
     <section class="archive-year">
       <h2>
         <a href="{{ '/archive/' | append: year.name | relative_url }}">
-          📁 {{ year.name }} 年
+          {{ year.name }} 年
         </a>
         <span class="post-count">({{ year.items | size }} 篇)</span>
       </h2>
@@ -40,7 +39,7 @@ permalink: /archive/
         {% for month in posts_by_month %}
           <li>
             <a href="{{ '/archive/' | append: year.name | append: '/' | append: month.name | relative_url }}">
-              📅 {{ month.name }} 月
+              {{ month.name }} 月
             </a>
             <span class="post-count">({{ month.items | size }} 篇)</span>
           </li>
@@ -56,21 +55,22 @@ permalink: /archive/
   }
   
   .archive-year {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     padding: 1rem;
-    background: #f8f9fa;
-    border-radius: 8px;
+    background: #f5f5f5;
+    border-radius: 4px;
   }
   
   .archive-year h2 {
     margin-top: 0;
-    border-bottom: 2px solid #dee2e6;
+    border-bottom: 1px solid #ddd;
     padding-bottom: 0.5rem;
+    font-size: 1.2em;
   }
   
   .archive-year h2 a {
     text-decoration: none;
-    color: #495057;
+    color: #333;
   }
   
   .post-count {
@@ -82,16 +82,19 @@ permalink: /archive/
   
   .archive-months {
     list-style: none;
-    padding-left: 1.5rem;
+    padding-left: 0;
+    margin: 0;
   }
   
   .archive-months li {
     margin: 0.5rem 0;
+    display: inline-block;
+    margin-right: 2rem;
   }
   
   .archive-months a {
     text-decoration: none;
-    color: #007bff;
+    color: #333;
   }
   
   .archive-months a:hover {
@@ -102,31 +105,32 @@ permalink: /archive/
   .archive-categories {
     margin-bottom: 2rem;
     padding: 1rem;
-    background: #fff3cd;
-    border-radius: 8px;
-    border-left: 4px solid #ffc107;
+    background: #f5f5f5;
+    border-radius: 4px;
   }
   
   .archive-categories h2 {
     margin-top: 0;
-    border-bottom: 2px solid #ffc107;
+    border-bottom: 1px solid #ddd;
     padding-bottom: 0.5rem;
+    font-size: 1.2em;
   }
   
   .category-list {
     list-style: none;
-    padding-left: 1.5rem;
+    padding-left: 0;
     margin: 0;
   }
   
   .category-list li {
     margin: 0.5rem 0;
-    font-size: 1.1em;
+    display: inline-block;
+    margin-right: 2rem;
   }
   
   .category-list a {
     text-decoration: none;
-    color: #007bff;
+    color: #333;
   }
   
   .category-list a:hover {
