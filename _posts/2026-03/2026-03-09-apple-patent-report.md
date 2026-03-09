@@ -27,7 +27,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](assets/images/US20260054180_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260054180_1.png)
 
 **Technical Field (技术领域)**:  
 本发明主要涉及利用传感器数据，通过多个电子设备提供共享体验的技术领域。
@@ -45,7 +45,7 @@ categories: Apple
 这项技术可以应用于多人互动游戏、虚拟与现实结合的教育体验、远程协作工作环境等场景。它能够提升用户与虚拟内容互动时的真实感和参与感。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US474910356)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260054180)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260054180)**
 
 ---
 
@@ -64,7 +64,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260046355_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260046355_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及计算机用户界面领域，特别是用于优化用户界面的技术。
@@ -82,7 +82,7 @@ categories: Apple
 这项技术可以应用于车载系统、智能家居设备以及任何需要用户快速、安全地与电子设备交互的场景。例如，在驾驶时，用户可以通过更直观的界面控制音乐、导航或接听电话，而无需复杂的操作。此外，这项技术还可以用于智能手表、耳机等便携设备，帮助用户更方便地管理媒体播放和其他功能。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473422715)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260046355)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260046355)**
 
 ---
 
@@ -101,7 +101,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260064200_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260064200_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及虚拟现实（VR）和混合现实（MR）技术领域，这些技术让用户沉浸在虚拟环境中或与虚拟内容互动。
@@ -119,7 +119,7 @@ categories: Apple
 这项技术可以广泛应用于VR和MR设备中，用于提升用户体验，例如通过更精准的眼球追踪来增强互动性。此外，它还可以用于游戏、虚拟培训、远程控制无人机等领域，以提高系统的响应速度和准确性。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US475031013)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260064200)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260064200)**
 
 ---
 
@@ -138,7 +138,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260067606_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260067606_1.png)
 
 **Technical Field (技术领域)**:  
 这种耳机属于便携式音频设备领域，通常用于听音乐、接听电话等。它可以与智能手机、平板电脑、笔记本电脑等设备配合使用。
@@ -156,7 +156,7 @@ categories: Apple
 这种耳机设计适合需要清晰音质和降噪功能的场景，比如在嘈杂环境中通话或听音乐。由于其非封闭设计，佩戴时不会完全堵塞耳朵，适合需要感知周围环境声音的用户，例如骑行者和户外运动爱好者。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US475034789)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260067606)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260067606)**
 
 ---
 
@@ -175,7 +175,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260064195_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260064195_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及虚拟内容的显示技术，特别是用于提升虚拟内容舒适度的系统、设备和方法。
@@ -193,7 +193,7 @@ categories: Apple
 这项技术可以应用于虚拟现实（VR）、增强现实（AR）设备或任何需要显示虚拟内容的系统。它有助于提升用户在长时间使用虚拟内容时的舒适度，例如在游戏、教育或工作场景中。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US475031007)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260064195)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260064195)**
 
 ---
 
@@ -212,7 +212,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260050291_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260050291_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及电子设备，特别是电子设备的显示屏技术。
@@ -230,7 +230,7 @@ categories: Apple
 这种技术可以应用于各种便携式电子设备，如智能手机、平板电脑和可穿戴设备。它不仅能帮助设备变得更轻薄，还能提供更灵活的工业设计选择。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972342)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260050291)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050291)**
 
 ---
 
@@ -249,7 +249,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260063912_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260063912_1.png)
 
 **Technical Field (技术领域)**:  
 本发明主要涉及头戴式显示设备，特别是用于头戴式显示设备的面部接口。
@@ -267,7 +267,7 @@ categories: Apple
 这种面部接口设计可以用于各种头戴式显示设备，如虚拟现实（VR）眼镜、增强现实（AR）眼镜等。它有助于提升用户的佩戴舒适度，减少面部压迫感，并优化显示效果和空气流通，适用于长时间使用的场景，如游戏、观影或虚拟会议等。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US475030694)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260063912)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260063912)**
 
 ---
 
@@ -286,7 +286,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260050535_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260050535_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及在大规模软件应用商店中测试应用数据变体的技术领域。简单来说，就是帮助开发者测试应用在应用商店中展示的不同版本的效果，比如图标或截图的变化。
@@ -304,7 +304,7 @@ categories: Apple
 这种技术可以帮助应用开发者更高效地测试和优化应用在应用商店中的展示效果，例如通过测试不同的图标、截图或描述，找出最能吸引用户并提高下载量的版本。对于大型应用商店，这种方法可以节省资源并加快测试速度，最终帮助开发者提升应用的市场表现。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972614)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260050535)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050535)**
 
 ---
 
@@ -323,7 +323,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260065447_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260065447_1.png)
 
 **Technical Field (技术领域)**:  
 本发明主要涉及捕捉和回放空间场景和/或混合现实体验内容（如立体视频）的系统、方法和设备。
@@ -341,7 +341,7 @@ categories: Apple
 这项技术可以应用于虚拟现实、增强现实和混合现实领域，帮助开发者、内容创作者和用户在不同设备上获得更一致和优化的观看体验。例如，在游戏、虚拟旅游、教育培训等场景中，用户可以通过头戴设备或电视获得更符合预期的视觉效果。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US475032395)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260065447)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260065447)**
 
 ---
 

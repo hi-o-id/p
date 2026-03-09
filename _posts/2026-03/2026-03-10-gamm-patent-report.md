@@ -27,7 +27,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260050354_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260050354_1.png)
 
 **Technical Field (技术领域)**:  
 这项技术涉及增强现实和虚拟现实系统，它们通过创建沉浸式体验来吸引用户。这些系统允许用户同时看到虚拟对象和现实世界中的物理对象。
@@ -45,7 +45,7 @@ categories: 其他
 这项技术可以应用于各种需要增强现实交互的场景，例如游戏设计、虚拟会议或智能办公环境。它可以帮助用户在现实和虚拟环境之间更自然地操作界面元素，提升整体的使用体验。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972412)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260050354)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050354)**
 
 ---
 
@@ -64,7 +64,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260050331_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260050331_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及电子设备中的传感器技术，特别是利用天线和麦克风进行用户交互事件检测的领域。
@@ -82,7 +82,7 @@ categories: 其他
 这项技术可以应用于各种智能设备，如手机、平板电脑和智能家居设备。它能够提升设备对用户操作的感知能力，例如识别手势、触摸或靠近等交互方式，从而实现更智能、更便捷的用户体验。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972387)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260050331)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050331)**
 
 ---
 
@@ -101,7 +101,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US12561416_1.png)
+![Patent Drawing](/assets/images/2026-03/US12561416_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及自动化识别技术领域，特别是用于识别用户身份的系统，例如通过手掌特征进行识别。
@@ -119,7 +119,7 @@ categories: 其他
 这种自动化用户识别系统可以广泛应用于安全门禁系统、智能家居设备以及需要身份验证的各种场景中。例如，它可以用于智能门锁，通过识别用户手掌来解锁，或者用于商场和办公楼的无感通行系统。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US474733313)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS12561416)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US12561416)**
 
 ---
 
@@ -138,7 +138,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260048660_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260048660_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及车辆操作系统领域，特别是允许多个用户同时使用车载信息娱乐系统的技术。
@@ -156,7 +156,7 @@ categories: 其他
 这项技术可以应用于现代智能汽车，使车内不同位置的乘客（如驾驶员、前排乘客和后排乘客）能够根据自身需求个性化使用车载系统，同时确保驾驶员不会因其他用户的行为而分心，从而提升驾驶安全性和用户体验。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473970533)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260048660)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260048660)**
 
 ---
 
@@ -175,7 +175,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260052226_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260052226_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及为虚拟会议提供多设备用户体验的技术领域。
@@ -193,7 +193,7 @@ categories: 其他
 这项技术可以广泛应用于远程办公、在线教育或团队协作等场景。例如，远程办公时，用户可以用电脑加入视频会议，同时用平板查看会议资料；在线教育中，教师可以用电脑授课，用手机展示课件或监控学生反馈，从而实现更灵活和高效的多设备互动。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473974490)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260052226)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260052226)**
 
 ---
 
@@ -212,7 +212,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US12560963_1.png)
+![Patent Drawing](/assets/images/2026-03/US12560963_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及机器人技术领域，特别是关于机器人使用的可穿戴设备，这些设备可以增强机器人的感知和执行能力。
@@ -230,7 +230,7 @@ categories: 其他
 这种可穿戴设备可以应用于各种领域，例如制造业，帮助机器人更准确地组装产品；在物流中，协助机器人识别和分拣货物；或者在服务行业中，帮助机器人更好地与人类互动和提供服务。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US474732814)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS12560963)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US12560963)**
 
 ---
 
@@ -249,7 +249,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260049877_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260049877_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及传感器安装设备和方法，特别是用于视频会议系统中应变计的安装。
@@ -267,7 +267,7 @@ categories: 其他
 这项发明可以应用于需要高精度传感器安装的场景，例如高端视频会议系统、虚拟现实设备或增强现实设备的生产制造中。它有助于确保传感器安装的准确性，从而提升设备的整体性能和用户体验。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473971884)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260049877)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260049877)**
 
 ---
 
@@ -286,7 +286,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260050105_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260050105_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及光学设备领域，具体来说，是具有光学透明度和/或发光特性的光学设备。
@@ -304,7 +304,7 @@ categories: 其他
 这种光学设备可以应用于虚拟现实眼镜、智能眼镜和其他需要控制光泄漏的近眼设备中。它有助于减少视觉干扰，提高用户体验，并可能对需要长时间使用电子设备的用户特别有益。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972135)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260050105)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050105)**
 
 ---
 
@@ -323,7 +323,7 @@ categories: 其他
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260050409_1.png)
+![Patent Drawing](/assets/images/2026-03/US20260050409_1.png)
 
 **Technical Field (技术领域)**:  
 本发明涉及使用语音控制来管理设备显示内容的技术领域。
@@ -341,7 +341,7 @@ categories: 其他
 这项技术可以应用于各种可穿戴设备，例如智能眼镜或XR设备，帮助用户通过语音命令更方便地调整显示内容布局。例如，用户可以通过语音指令来重新排列虚拟界面上的图标或窗口，或者在增强现实环境中移动虚拟物体。
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972473)**  
-**[View Full Patent @ Google Patents](https://patents.google.com/patent/USUS20260050409)**
+**[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050409)**
 
 ---
 
