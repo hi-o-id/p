@@ -1,8 +1,7 @@
 ---
-title: AI Daily 2026-03-09
+title: Test
 date: 2026-03-09
-categories: [AI]
-tags: [OpenAI, LLM]
+tags: [其他]
 ---
-
-今天的重要 AI 新闻。
+这是一篇
+测试文章。
