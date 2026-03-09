@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="archive">
+  <h1 class="page-heading">
+    {% if page.type == 'year' %}
+      📅 {{ page.date | date: "%Y" }} 年归档
+    {% elsif page.type == 'month' %}
+      📅 {{ page.date | date: "%Y 年 %m 月" }} 归档
+    {% elsif page.type == 'tag' %}
+      🏷️ 标签：{{ page.title }}
+    {% endif %}
+  </h1>
+
+  <p class="archive-meta">
+    共 {{ page.posts | size }} 篇文章
+  </p>
+
+  <ul class="post-list">
+    {% for post in page.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {% if post.excerpt %}
+          <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 100 }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <div class="archive-nav">
+    <a href="{{ '/archive/' | relative_url }}">← 查看所有归档</a>
+  </div>
+</div>

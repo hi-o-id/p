@@ -1,0 +1,51 @@
+title: 专利日报
+email: your-email@example.com
+description: >-
+  每日专利监测报告，自动同步自 Apple Patent Archive
+
+baseurl: "/daily-p-report"
+url: "https://hi-o-id.github.io"
+
+twitter_username: 
+github_username: hi-o-id
+
+# 构建设置
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-archives  # 启用归档插件
+
+# 归档插件配置
+jekyll-archives:
+  enabled: 
+    - year
+    - month
+    - tags
+  layout: archive
+  permalinks:
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    tag: '/tag/:name/'
+
+# 默认设置
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "专利监测系统"
+
+# 排除文件
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
