@@ -1,26 +1,32 @@
-title: 专利 D 早报
-description: 设计和硬件相关的专利，来自 Apple 等公司
-theme: minima
+title: 专利日报
+email: your-email@example.com
+description: >-
+  每日专利监测报告，自动同步自 Apple Patent Archive
 
+baseurl: "/daily-p-report"
+url: "https://hi-o-id.github.io"
+
+twitter_username: 
+github_username: hi-o-id
 
 # 构建设置
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-archives  # 启用归档插件
+  - jekyll-archives  # 归档插件
 
 # 归档插件配置
 jekyll-archives:
   enabled: 
     - year
     - month
-    - tags
+    - categories  # ✅ 启用 Category 归档
   layout: archive
   permalinks:
     year: '/archive/:year/'
     month: '/archive/:year/:month/'
-    tag: '/tag/:name/'
+    category: '/category/:name/'  # ✅ Category 归档 URL
 
 # 默认设置
 defaults:
@@ -29,7 +35,11 @@ defaults:
       type: "posts"
     values:
       layout: post
-      author: ""
+      author: "专利监测系统"
+
+# 分页（可选）
+paginate: 10
+paginate_path: "/page:num/"
 
 # 排除文件
 exclude:
