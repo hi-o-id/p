@@ -27,7 +27,7 @@ categories: Apple
 
 **Patent Drawings**:
 
-![Patent Drawing](images/US20260054180_1.png)
+![Patent Drawing](assets/images/US20260054180_1.png)
 
 **Technical Field (技术领域)**:  
 本发明主要涉及利用传感器数据，通过多个电子设备提供共享体验的技术领域。
