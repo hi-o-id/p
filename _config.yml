@@ -1,7 +1,7 @@
-title: 专利日报
-email: your-email@example.com
-description: >-
-  每日专利监测报告，自动同步自 Apple Patent Archive
+title: 专利 D 早报
+description: 设计和硬件相关的专利，来自 Apple 等公司
+theme: minima
+
 
 baseurl: "/daily-p-report"
 url: "https://hi-o-id.github.io"
