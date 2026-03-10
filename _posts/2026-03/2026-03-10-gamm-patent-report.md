@@ -10,8 +10,7 @@ categories: 其他
 ---
 
 
-
-
+<br/><br/>
 
 ### 1. 通过人工现实系统依次显示颜色场以呈现虚拟对象
 
@@ -46,13 +45,12 @@ categories: 其他
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473973250)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260051109)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 2. 减少光线透过材料泄漏的光学设备、系统和方法
 
@@ -87,13 +85,12 @@ categories: 其他
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972135)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050105)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 3. 用于精确安装传感器的设备
 
@@ -128,13 +125,12 @@ categories: 其他
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473971884)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260049877)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 4. 用于透视增强现实显示的设备、系统和方法
 
@@ -169,13 +165,12 @@ categories: 其他
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US474912834)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260056413)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 5. 宽频微扬声器
 
@@ -210,7 +205,7 @@ categories: 其他
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US474915954)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260059228)**
-
+<br/><br/>
 
 ---
 

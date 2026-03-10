@@ -10,8 +10,7 @@ categories: Apple
 ---
 
 
-
-
+<br/><br/>
 
 ### 1. 电子设备的可穿戴面部接口
 
@@ -46,13 +45,12 @@ categories: Apple
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US475030694)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260063912)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 2. 用于呈现内容的用户界面和技术
 
@@ -87,13 +85,12 @@ categories: Apple
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972377)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050322)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 3. 基于摄像头检测的相对头部运动进行用户界面选择
 
@@ -128,13 +125,12 @@ categories: Apple
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972378)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050323)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 4. 用于移动计算机系统的用户界面和技术
 
@@ -169,13 +165,12 @@ categories: Apple
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US474913043)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260056603)**
-
+<br/><br/>
 
 ---
 
 
-
-
+<br/><br/>
 
 ### 5. 通过摄像头检测用户注意力
 
@@ -210,7 +205,7 @@ categories: Apple
 
 **[View Full Patent @ WIPO](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US473972371)**  
 **[View Full Patent @ Google Patents](https://patents.google.com/patent/US20260050316)**
-
+<br/><br/>
 
 ---
 
