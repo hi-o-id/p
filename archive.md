@@ -1,11 +1,10 @@
 ---
 layout: page
-title: 归档
 permalink: /archive/
 ---
 
 <div class="archives-index">
-  <h1 class="page-heading">文章归档</h1>
+  <h2 class="page-heading">文章归档</h2>
 
   <!-- 按类别归档 -->
   <section class="archive-categories">
