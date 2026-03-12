@@ -6,9 +6,5 @@
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   {%- feed_meta -%}
 
-  {%- comment -%}
-    Override minima default head to avoid loading `_includes/google-analytics.html`.
-    We inject GA only through custom-head.html.
-  {%- endcomment -%}
   {%- include custom-head.html -%}
 </head>
