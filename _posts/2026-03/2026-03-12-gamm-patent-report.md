@@ -18,7 +18,7 @@ categories: 其他
 **Pub. No.**: US20260064197
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Zuoqian Wang](https://patents.google.com/?inventor=Zuoqian+Wang&assignee=Gamm&country=US&num=100&sort=new), [Min Tao](https://patents.google.com/?inventor=Min+Tao&assignee=Gamm&country=US&num=100&sort=new), [Anqi Ji](https://patents.google.com/?inventor=Anqi+Ji&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Zuoqian Wang](https://patents.google.com/?inventor=Zuoqian+Wang&country=US&num=100&sort=new), [Min Tao](https://patents.google.com/?inventor=Min+Tao&country=US&num=100&sort=new), [Anqi Ji](https://patents.google.com/?inventor=Anqi+Ji&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -58,7 +58,7 @@ categories: 其他
 **Pub. No.**: US20260064521
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [Kartik MATHUR](https://patents.google.com/?inventor=Kartik+MATHUR&assignee=Gamm&country=US&num=100&sort=new), [Julia Weronika ADAMCZYK](https://patents.google.com/?inventor=Julia+Weronika+ADAMCZYK&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Kartik MATHUR](https://patents.google.com/?inventor=Kartik+MATHUR&country=US&num=100&sort=new), [Julia Weronika ADAMCZYK](https://patents.google.com/?inventor=Julia+Weronika+ADAMCZYK&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -98,7 +98,7 @@ categories: 其他
 **Pub. No.**: US20260060578
 
 **Applicant**: Google LLC  
-**Inventor**: [Samy Ahmed Mansour Abdel-Ghaffar](https://patents.google.com/?inventor=Samy+Ahmed+Mansour+Abdel-Ghaffar&assignee=Gamm&country=US&num=100&sort=new), [Conor Joseph Heneghan](https://patents.google.com/?inventor=Conor+Joseph+Heneghan&assignee=Gamm&country=US&num=100&sort=new), [Lindsey Michelle Sunden](https://patents.google.com/?inventor=Lindsey+Michelle+Sunden&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Samy Ahmed Mansour Abdel-Ghaffar](https://patents.google.com/?inventor=Samy+Ahmed+Mansour+Abdel-Ghaffar&country=US&num=100&sort=new), [Conor Joseph Heneghan](https://patents.google.com/?inventor=Conor+Joseph+Heneghan&country=US&num=100&sort=new), [Lindsey Michelle Sunden](https://patents.google.com/?inventor=Lindsey+Michelle+Sunden&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -138,7 +138,7 @@ categories: 其他
 **Pub. No.**: US20260063920
 
 **Applicant**: Google LLC  
-**Inventor**: [Hyuk Jae Choi](https://patents.google.com/?inventor=Hyuk+Jae+Choi&assignee=Gamm&country=US&num=100&sort=new), [Dansik Yoo](https://patents.google.com/?inventor=Dansik+Yoo&assignee=Gamm&country=US&num=100&sort=new), [Zhenhong Fu](https://patents.google.com/?inventor=Zhenhong+Fu&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Hyuk Jae Choi](https://patents.google.com/?inventor=Hyuk+Jae+Choi&country=US&num=100&sort=new), [Dansik Yoo](https://patents.google.com/?inventor=Dansik+Yoo&country=US&num=100&sort=new), [Zhenhong Fu](https://patents.google.com/?inventor=Zhenhong+Fu&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -178,7 +178,7 @@ categories: 其他
 **Pub. No.**: US20260062840
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [Kelly Marie BOGAN](https://patents.google.com/?inventor=Kelly+Marie+BOGAN&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Kelly Marie BOGAN](https://patents.google.com/?inventor=Kelly+Marie+BOGAN&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -218,7 +218,7 @@ categories: 其他
 **Pub. No.**: US20260064345
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Nicholas Wallen](https://patents.google.com/?inventor=Nicholas+Wallen&assignee=Gamm&country=US&num=100&sort=new), [Benjamin Neal Bethurum](https://patents.google.com/?inventor=Benjamin+Neal+Bethurum&assignee=Gamm&country=US&num=100&sort=new), [Willy Huang](https://patents.google.com/?inventor=Willy+Huang&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Nicholas Wallen](https://patents.google.com/?inventor=Nicholas+Wallen&country=US&num=100&sort=new), [Benjamin Neal Bethurum](https://patents.google.com/?inventor=Benjamin+Neal+Bethurum&country=US&num=100&sort=new), [Willy Huang](https://patents.google.com/?inventor=Willy+Huang&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -258,7 +258,7 @@ categories: 其他
 **Pub. No.**: US20260064199
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Alexandra Gualdino](https://patents.google.com/?inventor=Alexandra+Gualdino&assignee=Gamm&country=US&num=100&sort=new), [Hod Finkelstein](https://patents.google.com/?inventor=Hod+Finkelstein&assignee=Gamm&country=US&num=100&sort=new), [Chandra Sekhar Kakani](https://patents.google.com/?inventor=Chandra+Sekhar+Kakani&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Alexandra Gualdino](https://patents.google.com/?inventor=Alexandra+Gualdino&country=US&num=100&sort=new), [Hod Finkelstein](https://patents.google.com/?inventor=Hod+Finkelstein&country=US&num=100&sort=new), [Chandra Sekhar Kakani](https://patents.google.com/?inventor=Chandra+Sekhar+Kakani&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -298,7 +298,7 @@ categories: 其他
 **Pub. No.**: US20260063439
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Ata Dogan](https://patents.google.com/?inventor=Ata+Dogan&assignee=Gamm&country=US&num=100&sort=new), [Dominic Vincent Aratari](https://patents.google.com/?inventor=Dominic+Vincent+Aratari&assignee=Gamm&country=US&num=100&sort=new), [Tung Him Karpenko](https://patents.google.com/?inventor=Tung+Him+Karpenko&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Ata Dogan](https://patents.google.com/?inventor=Ata+Dogan&country=US&num=100&sort=new), [Dominic Vincent Aratari](https://patents.google.com/?inventor=Dominic+Vincent+Aratari&country=US&num=100&sort=new), [Tung Him Karpenko](https://patents.google.com/?inventor=Tung+Him+Karpenko&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -338,7 +338,7 @@ categories: 其他
 **Pub. No.**: US20260060562
 
 **Applicant**: Google LLC  
-**Inventor**: [Octavio Ponce Madrigal](https://patents.google.com/?inventor=Octavio+Ponce+Madrigal&assignee=Gamm&country=US&num=100&sort=new), [Michal Matuszak](https://patents.google.com/?inventor=Michal+Matuszak&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Octavio Ponce Madrigal](https://patents.google.com/?inventor=Octavio+Ponce+Madrigal&country=US&num=100&sort=new), [Michal Matuszak](https://patents.google.com/?inventor=Michal+Matuszak&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -378,7 +378,7 @@ categories: 其他
 **Pub. No.**: US20260065605
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Ata Dogan](https://patents.google.com/?inventor=Ata+Dogan&assignee=Gamm&country=US&num=100&sort=new), [Christopher E. Balmes](https://patents.google.com/?inventor=Christopher+E.+Balmes&assignee=Gamm&country=US&num=100&sort=new), [Jonathan Faunce](https://patents.google.com/?inventor=Jonathan+Faunce&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Ata Dogan](https://patents.google.com/?inventor=Ata+Dogan&country=US&num=100&sort=new), [Christopher E. Balmes](https://patents.google.com/?inventor=Christopher+E.+Balmes&country=US&num=100&sort=new), [Jonathan Faunce](https://patents.google.com/?inventor=Jonathan+Faunce&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -418,7 +418,7 @@ categories: 其他
 **Pub. No.**: US20260067424
 
 **Applicant**: Google LLC  
-**Inventor**: [Anton Volkov](https://patents.google.com/?inventor=Anton+Volkov&assignee=Gamm&country=US&num=100&sort=new), [Felix David Mejia Abreu](https://patents.google.com/?inventor=Felix+David+Mejia+Abreu&assignee=Gamm&country=US&num=100&sort=new), [Justin Volz](https://patents.google.com/?inventor=Justin+Volz&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Anton Volkov](https://patents.google.com/?inventor=Anton+Volkov&country=US&num=100&sort=new), [Felix David Mejia Abreu](https://patents.google.com/?inventor=Felix+David+Mejia+Abreu&country=US&num=100&sort=new), [Justin Volz](https://patents.google.com/?inventor=Justin+Volz&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -458,7 +458,7 @@ categories: 其他
 **Pub. No.**: US20260067419
 
 **Applicant**: Google LLC  
-**Inventor**: [John Jordan Nold](https://patents.google.com/?inventor=John+Jordan+Nold&assignee=Gamm&country=US&num=100&sort=new), [Joe Delone Venters](https://patents.google.com/?inventor=Joe+Delone+Venters&assignee=Gamm&country=US&num=100&sort=new), [Liana Kong](https://patents.google.com/?inventor=Liana+Kong&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [John Jordan Nold](https://patents.google.com/?inventor=John+Jordan+Nold&country=US&num=100&sort=new), [Joe Delone Venters](https://patents.google.com/?inventor=Joe+Delone+Venters&country=US&num=100&sort=new), [Liana Kong](https://patents.google.com/?inventor=Liana+Kong&country=US&num=100&sort=new)  
 **Publication Date**: 05.03.2026
 
 **Abstract**:  
@@ -498,7 +498,7 @@ categories: 其他
 **Pub. No.**: US12567416
 
 **Applicant**: Amazon Technologies, Inc.  
-**Inventor**: [Guoning Hu](https://patents.google.com/?inventor=Guoning+Hu&assignee=Gamm&country=US&num=100&sort=new), [Michael Hart](https://patents.google.com/?inventor=Michael+Hart&assignee=Gamm&country=US&num=100&sort=new), [Seth Brickman](https://patents.google.com/?inventor=Seth+Brickman&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Guoning Hu](https://patents.google.com/?inventor=Guoning+Hu&country=US&num=100&sort=new), [Michael Hart](https://patents.google.com/?inventor=Michael+Hart&country=US&num=100&sort=new), [Seth Brickman](https://patents.google.com/?inventor=Seth+Brickman&country=US&num=100&sort=new)  
 **Publication Date**: 03.03.2026
 
 **Abstract**:  
@@ -538,7 +538,7 @@ categories: 其他
 **Pub. No.**: US12568057
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Oscar Murillo](https://patents.google.com/?inventor=Oscar+Murillo&assignee=Gamm&country=US&num=100&sort=new), [Fang-Yu Yang](https://patents.google.com/?inventor=Fang-Yu+Yang&assignee=Gamm&country=US&num=100&sort=new), [Annika Rodrigues](https://patents.google.com/?inventor=Annika+Rodrigues&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Oscar Murillo](https://patents.google.com/?inventor=Oscar+Murillo&country=US&num=100&sort=new), [Fang-Yu Yang](https://patents.google.com/?inventor=Fang-Yu+Yang&country=US&num=100&sort=new), [Annika Rodrigues](https://patents.google.com/?inventor=Annika+Rodrigues&country=US&num=100&sort=new)  
 **Publication Date**: 03.03.2026
 
 **Abstract**:  
@@ -578,7 +578,7 @@ categories: 其他
 **Pub. No.**: US12568570
 
 **Applicant**: Amazon Technologies, Inc.  
-**Inventor**: [James Siminoff](https://patents.google.com/?inventor=James+Siminoff&assignee=Gamm&country=US&num=100&sort=new), [Michael V. Recker](https://patents.google.com/?inventor=Michael+V.+Recker&assignee=Gamm&country=US&num=100&sort=new), [Ryan David Hruska](https://patents.google.com/?inventor=Ryan+David+Hruska&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [James Siminoff](https://patents.google.com/?inventor=James+Siminoff&country=US&num=100&sort=new), [Michael V. Recker](https://patents.google.com/?inventor=Michael+V.+Recker&country=US&num=100&sort=new), [Ryan David Hruska](https://patents.google.com/?inventor=Ryan+David+Hruska&country=US&num=100&sort=new)  
 **Publication Date**: 03.03.2026
 
 **Abstract**:  
@@ -618,7 +618,7 @@ categories: 其他
 **Pub. No.**: US12567428
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Lin Li](https://patents.google.com/?inventor=Lin+Li&assignee=Gamm&country=US&num=100&sort=new), [Tetsuro Oishi](https://patents.google.com/?inventor=Tetsuro+Oishi&assignee=Gamm&country=US&num=100&sort=new), [Gongqiang Yu](https://patents.google.com/?inventor=Gongqiang+Yu&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Lin Li](https://patents.google.com/?inventor=Lin+Li&country=US&num=100&sort=new), [Tetsuro Oishi](https://patents.google.com/?inventor=Tetsuro+Oishi&country=US&num=100&sort=new), [Gongqiang Yu](https://patents.google.com/?inventor=Gongqiang+Yu&country=US&num=100&sort=new)  
 **Publication Date**: 03.03.2026
 
 **Abstract**:  
@@ -658,7 +658,7 @@ categories: 其他
 **Pub. No.**: US12567179
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Xuhai Xu](https://patents.google.com/?inventor=Xuhai+Xu&assignee=Gamm&country=US&num=100&sort=new), [Mengjie Yu](https://patents.google.com/?inventor=Mengjie+Yu&assignee=Gamm&country=US&num=100&sort=new), [Tanya Renee Jonker](https://patents.google.com/?inventor=Tanya+Renee+Jonker&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Xuhai Xu](https://patents.google.com/?inventor=Xuhai+Xu&country=US&num=100&sort=new), [Mengjie Yu](https://patents.google.com/?inventor=Mengjie+Yu&country=US&num=100&sort=new), [Tanya Renee Jonker](https://patents.google.com/?inventor=Tanya+Renee+Jonker&country=US&num=100&sort=new)  
 **Publication Date**: 03.03.2026
 
 **Abstract**:  
@@ -698,7 +698,7 @@ categories: 其他
 **Pub. No.**: US12564959
 
 **Applicant**: Amazon Technologies, Inc.  
-**Inventor**: [Seth R Kaufman](https://patents.google.com/?inventor=Seth+R+Kaufman&assignee=Gamm&country=US&num=100&sort=new), [Wesley Roy Connell](https://patents.google.com/?inventor=Wesley+Roy+Connell&assignee=Gamm&country=US&num=100&sort=new), [Siva Aduri](https://patents.google.com/?inventor=Siva+Aduri&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Seth R Kaufman](https://patents.google.com/?inventor=Seth+R+Kaufman&country=US&num=100&sort=new), [Wesley Roy Connell](https://patents.google.com/?inventor=Wesley+Roy+Connell&country=US&num=100&sort=new), [Siva Aduri](https://patents.google.com/?inventor=Siva+Aduri&country=US&num=100&sort=new)  
 **Publication Date**: 03.03.2026
 
 **Abstract**:  
@@ -738,7 +738,7 @@ categories: 其他
 **Pub. No.**: US20260056653
 
 **Applicant**: Google LLC  
-**Inventor**: [Sarah Fay Smith](https://patents.google.com/?inventor=Sarah+Fay+Smith&assignee=Gamm&country=US&num=100&sort=new), [Clement Dickinson Wright](https://patents.google.com/?inventor=Clement+Dickinson+Wright&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Sarah Fay Smith](https://patents.google.com/?inventor=Sarah+Fay+Smith&country=US&num=100&sort=new), [Clement Dickinson Wright](https://patents.google.com/?inventor=Clement+Dickinson+Wright&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -778,7 +778,7 @@ categories: 其他
 **Pub. No.**: US20260053382
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Mantas Zurauskas](https://patents.google.com/?inventor=Mantas+Zurauskas&assignee=Gamm&country=US&num=100&sort=new), [Christopher Bernard](https://patents.google.com/?inventor=Christopher+Bernard&assignee=Gamm&country=US&num=100&sort=new), [Robert Dale Cavin](https://patents.google.com/?inventor=Robert+Dale+Cavin&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Mantas Zurauskas](https://patents.google.com/?inventor=Mantas+Zurauskas&country=US&num=100&sort=new), [Christopher Bernard](https://patents.google.com/?inventor=Christopher+Bernard&country=US&num=100&sort=new), [Robert Dale Cavin](https://patents.google.com/?inventor=Robert+Dale+Cavin&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -818,7 +818,7 @@ categories: 其他
 **Pub. No.**: US20260056411
 
 **Applicant**: GOOGLE LLC  
-**Inventor**: [Ozan Cakmakci](https://patents.google.com/?inventor=Ozan+Cakmakci&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Ozan Cakmakci](https://patents.google.com/?inventor=Ozan+Cakmakci&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -858,7 +858,7 @@ categories: 其他
 **Pub. No.**: US20260057892
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [Ross Garrett Cutler](https://patents.google.com/?inventor=Ross+Garrett+Cutler&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Ross Garrett Cutler](https://patents.google.com/?inventor=Ross+Garrett+Cutler&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -898,7 +898,7 @@ categories: 其他
 **Pub. No.**: US20260057847
 
 **Applicant**: Google LLC  
-**Inventor**: [Weihsiang Hung](https://patents.google.com/?inventor=Weihsiang+Hung&assignee=Gamm&country=US&num=100&sort=new), [Sangmoo Choi](https://patents.google.com/?inventor=Sangmoo+Choi&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Weihsiang Hung](https://patents.google.com/?inventor=Weihsiang+Hung&country=US&num=100&sort=new), [Sangmoo Choi](https://patents.google.com/?inventor=Sangmoo+Choi&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -938,7 +938,7 @@ categories: 其他
 **Pub. No.**: US20260059709
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [Nicholas Andrew KEEHN](https://patents.google.com/?inventor=Nicholas+Andrew+KEEHN&assignee=Gamm&country=US&num=100&sort=new), [Husam Atallah ALISSA](https://patents.google.com/?inventor=Husam+Atallah+ALISSA&assignee=Gamm&country=US&num=100&sort=new), [Bharath RAMAKRISHNAN](https://patents.google.com/?inventor=Bharath+RAMAKRISHNAN&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Nicholas Andrew KEEHN](https://patents.google.com/?inventor=Nicholas+Andrew+KEEHN&country=US&num=100&sort=new), [Husam Atallah ALISSA](https://patents.google.com/?inventor=Husam+Atallah+ALISSA&country=US&num=100&sort=new), [Bharath RAMAKRISHNAN](https://patents.google.com/?inventor=Bharath+RAMAKRISHNAN&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -978,7 +978,7 @@ categories: 其他
 **Pub. No.**: US20260059223
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [James Hao-An Chen LIN](https://patents.google.com/?inventor=James+Hao-An+Chen+LIN&assignee=Gamm&country=US&num=100&sort=new), [Michael Cameron GORDON](https://patents.google.com/?inventor=Michael+Cameron+GORDON&assignee=Gamm&country=US&num=100&sort=new), [Denys V. YAREMENKO](https://patents.google.com/?inventor=Denys+V.+YAREMENKO&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [James Hao-An Chen LIN](https://patents.google.com/?inventor=James+Hao-An+Chen+LIN&country=US&num=100&sort=new), [Michael Cameron GORDON](https://patents.google.com/?inventor=Michael+Cameron+GORDON&country=US&num=100&sort=new), [Denys V. YAREMENKO](https://patents.google.com/?inventor=Denys+V.+YAREMENKO&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1018,7 +1018,7 @@ categories: 其他
 **Pub. No.**: US20260053448
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Myriam Amsallem](https://patents.google.com/?inventor=Myriam+Amsallem&assignee=Gamm&country=US&num=100&sort=new), [Brian Keith Cabral](https://patents.google.com/?inventor=Brian+Keith+Cabral&assignee=Gamm&country=US&num=100&sort=new), [Isaac Robert Galatzer-Levy](https://patents.google.com/?inventor=Isaac+Robert+Galatzer-Levy&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Myriam Amsallem](https://patents.google.com/?inventor=Myriam+Amsallem&country=US&num=100&sort=new), [Brian Keith Cabral](https://patents.google.com/?inventor=Brian+Keith+Cabral&country=US&num=100&sort=new), [Isaac Robert Galatzer-Levy](https://patents.google.com/?inventor=Isaac+Robert+Galatzer-Levy&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1058,7 +1058,7 @@ categories: 其他
 **Pub. No.**: US20260056403
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Mantas Zurauskas](https://patents.google.com/?inventor=Mantas+Zurauskas&assignee=Gamm&country=US&num=100&sort=new), [Michal Makowski](https://patents.google.com/?inventor=Michal+Makowski&assignee=Gamm&country=US&num=100&sort=new), [Brian Schowengerdt](https://patents.google.com/?inventor=Brian+Schowengerdt&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Mantas Zurauskas](https://patents.google.com/?inventor=Mantas+Zurauskas&country=US&num=100&sort=new), [Michal Makowski](https://patents.google.com/?inventor=Michal+Makowski&country=US&num=100&sort=new), [Brian Schowengerdt](https://patents.google.com/?inventor=Brian+Schowengerdt&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1101,7 +1101,7 @@ categories: 其他
 **Pub. No.**: US20260056620
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Ian Sebastian Murphy Bicking](https://patents.google.com/?inventor=Ian+Sebastian+Murphy+Bicking&assignee=Gamm&country=US&num=100&sort=new), [Austin Ha](https://patents.google.com/?inventor=Austin+Ha&assignee=Gamm&country=US&num=100&sort=new), [Adam Berenzweig](https://patents.google.com/?inventor=Adam+Berenzweig&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Ian Sebastian Murphy Bicking](https://patents.google.com/?inventor=Ian+Sebastian+Murphy+Bicking&country=US&num=100&sort=new), [Austin Ha](https://patents.google.com/?inventor=Austin+Ha&country=US&num=100&sort=new), [Adam Berenzweig](https://patents.google.com/?inventor=Adam+Berenzweig&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1146,7 +1146,7 @@ categories: 其他
 **Pub. No.**: US20260057621
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Aakar Gupta](https://patents.google.com/?inventor=Aakar+Gupta&assignee=Gamm&country=US&num=100&sort=new), [Difeng Yu](https://patents.google.com/?inventor=Difeng+Yu&assignee=Gamm&country=US&num=100&sort=new), [Ruta Parimal Desai](https://patents.google.com/?inventor=Ruta+Parimal+Desai&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Aakar Gupta](https://patents.google.com/?inventor=Aakar+Gupta&country=US&num=100&sort=new), [Difeng Yu](https://patents.google.com/?inventor=Difeng+Yu&country=US&num=100&sort=new), [Ruta Parimal Desai](https://patents.google.com/?inventor=Ruta+Parimal+Desai&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1186,7 +1186,7 @@ categories: 其他
 **Pub. No.**: US20260057705
 
 **Applicant**: MICROSOFT TECHNOLOGY LICENSING, LLC  
-**Inventor**: [Pei YU](https://patents.google.com/?inventor=Pei+YU&assignee=Gamm&country=US&num=100&sort=new), [Ying JIN](https://patents.google.com/?inventor=Ying+JIN&assignee=Gamm&country=US&num=100&sort=new), [Zicheng LIU](https://patents.google.com/?inventor=Zicheng+LIU&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Pei YU](https://patents.google.com/?inventor=Pei+YU&country=US&num=100&sort=new), [Ying JIN](https://patents.google.com/?inventor=Ying+JIN&country=US&num=100&sort=new), [Zicheng LIU](https://patents.google.com/?inventor=Zicheng+LIU&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1226,7 +1226,7 @@ categories: 其他
 **Pub. No.**: US20260056579
 
 **Applicant**: Google LLC  
-**Inventor**: [Roth Kyle Wiedrick](https://patents.google.com/?inventor=Roth+Kyle+Wiedrick&assignee=Gamm&country=US&num=100&sort=new), [Scott Edmund Stanford](https://patents.google.com/?inventor=Scott+Edmund+Stanford&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Roth Kyle Wiedrick](https://patents.google.com/?inventor=Roth+Kyle+Wiedrick&country=US&num=100&sort=new), [Scott Edmund Stanford](https://patents.google.com/?inventor=Scott+Edmund+Stanford&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1266,7 +1266,7 @@ categories: 其他
 **Pub. No.**: US20260056595
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [Mrinal Kumar SHARMA](https://patents.google.com/?inventor=Mrinal+Kumar+SHARMA&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Mrinal Kumar SHARMA](https://patents.google.com/?inventor=Mrinal+Kumar+SHARMA&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1306,7 +1306,7 @@ categories: 其他
 **Pub. No.**: US20260058231
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Jason Michael Battle](https://patents.google.com/?inventor=Jason+Michael+Battle&assignee=Gamm&country=US&num=100&sort=new), [Sung Hoon Oh](https://patents.google.com/?inventor=Sung+Hoon+Oh&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Jason Michael Battle](https://patents.google.com/?inventor=Jason+Michael+Battle&country=US&num=100&sort=new), [Sung Hoon Oh](https://patents.google.com/?inventor=Sung+Hoon+Oh&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1346,7 +1346,7 @@ categories: 其他
 **Pub. No.**: US20260056592
 
 **Applicant**: Google LLC  
-**Inventor**: [Yu-Ting Yeh](https://patents.google.com/?inventor=Yu-Ting+Yeh&assignee=Gamm&country=US&num=100&sort=new), [ChiHuan Chen](https://patents.google.com/?inventor=ChiHuan+Chen&assignee=Gamm&country=US&num=100&sort=new), [Fu-Ming Hsu](https://patents.google.com/?inventor=Fu-Ming+Hsu&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Yu-Ting Yeh](https://patents.google.com/?inventor=Yu-Ting+Yeh&country=US&num=100&sort=new), [ChiHuan Chen](https://patents.google.com/?inventor=ChiHuan+Chen&country=US&num=100&sort=new), [Fu-Ming Hsu](https://patents.google.com/?inventor=Fu-Ming+Hsu&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1386,7 +1386,7 @@ categories: 其他
 **Pub. No.**: US20260056418
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Isaac Finger](https://patents.google.com/?inventor=Isaac+Finger&assignee=Gamm&country=US&num=100&sort=new), [Michael Webb](https://patents.google.com/?inventor=Michael+Webb&assignee=Gamm&country=US&num=100&sort=new), [Yuanjing Zheng](https://patents.google.com/?inventor=Yuanjing+Zheng&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Isaac Finger](https://patents.google.com/?inventor=Isaac+Finger&country=US&num=100&sort=new), [Michael Webb](https://patents.google.com/?inventor=Michael+Webb&country=US&num=100&sort=new), [Yuanjing Zheng](https://patents.google.com/?inventor=Yuanjing+Zheng&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1426,7 +1426,7 @@ categories: 其他
 **Pub. No.**: US20260054302
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Zhicong Yao](https://patents.google.com/?inventor=Zhicong+Yao&assignee=Gamm&country=US&num=100&sort=new), [Luke Murphy](https://patents.google.com/?inventor=Luke+Murphy&assignee=Gamm&country=US&num=100&sort=new), [Richard Langlois](https://patents.google.com/?inventor=Richard+Langlois&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Zhicong Yao](https://patents.google.com/?inventor=Zhicong+Yao&country=US&num=100&sort=new), [Luke Murphy](https://patents.google.com/?inventor=Luke+Murphy&country=US&num=100&sort=new), [Richard Langlois](https://patents.google.com/?inventor=Richard+Langlois&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1466,7 +1466,7 @@ categories: 其他
 **Pub. No.**: US20260057580
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [Jaimin Ajay PATEL](https://patents.google.com/?inventor=Jaimin+Ajay+PATEL&assignee=Gamm&country=US&num=100&sort=new), [Srinivasa Chaitanya Kumar Reddy GOPIREDDY](https://patents.google.com/?inventor=Srinivasa+Chaitanya+Kumar+Reddy+GOPIREDDY&assignee=Gamm&country=US&num=100&sort=new), [Adhiraj SOOD](https://patents.google.com/?inventor=Adhiraj+SOOD&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Jaimin Ajay PATEL](https://patents.google.com/?inventor=Jaimin+Ajay+PATEL&country=US&num=100&sort=new), [Srinivasa Chaitanya Kumar Reddy GOPIREDDY](https://patents.google.com/?inventor=Srinivasa+Chaitanya+Kumar+Reddy+GOPIREDDY&country=US&num=100&sort=new), [Adhiraj SOOD](https://patents.google.com/?inventor=Adhiraj+SOOD&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1506,7 +1506,7 @@ categories: 其他
 **Pub. No.**: US20260057247
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Syed Shakib Sarwar](https://patents.google.com/?inventor=Syed+Shakib+Sarwar&assignee=Gamm&country=US&num=100&sort=new), [Barbara De Salvo](https://patents.google.com/?inventor=Barbara+De+Salvo&assignee=Gamm&country=US&num=100&sort=new), [Xinqiao Liu](https://patents.google.com/?inventor=Xinqiao+Liu&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Syed Shakib Sarwar](https://patents.google.com/?inventor=Syed+Shakib+Sarwar&country=US&num=100&sort=new), [Barbara De Salvo](https://patents.google.com/?inventor=Barbara+De+Salvo&country=US&num=100&sort=new), [Xinqiao Liu](https://patents.google.com/?inventor=Xinqiao+Liu&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1546,7 +1546,7 @@ categories: 其他
 **Pub. No.**: US20260056641
 
 **Applicant**: GOOGLE LLC  
-**Inventor**: [Dongeek Shin](https://patents.google.com/?inventor=Dongeek+Shin&assignee=Gamm&country=US&num=100&sort=new), [Anuva Kulkarni](https://patents.google.com/?inventor=Anuva+Kulkarni&assignee=Gamm&country=US&num=100&sort=new), [Tianyu Xu](https://patents.google.com/?inventor=Tianyu+Xu&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Dongeek Shin](https://patents.google.com/?inventor=Dongeek+Shin&country=US&num=100&sort=new), [Anuva Kulkarni](https://patents.google.com/?inventor=Anuva+Kulkarni&country=US&num=100&sort=new), [Tianyu Xu](https://patents.google.com/?inventor=Tianyu+Xu&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1586,7 +1586,7 @@ categories: 其他
 **Pub. No.**: US20260054162
 
 **Applicant**: Microsoft Technology Licensing, LLC  
-**Inventor**: [Tero Juhani PATANA](https://patents.google.com/?inventor=Tero+Juhani+PATANA&assignee=Gamm&country=US&num=100&sort=new), [Shuoqi Scott WANG](https://patents.google.com/?inventor=Shuoqi+Scott+WANG&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Tero Juhani PATANA](https://patents.google.com/?inventor=Tero+Juhani+PATANA&country=US&num=100&sort=new), [Shuoqi Scott WANG](https://patents.google.com/?inventor=Shuoqi+Scott+WANG&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1626,7 +1626,7 @@ categories: 其他
 **Pub. No.**: US20260056413
 
 **Applicant**: Meta Platforms Technologies, LLC  
-**Inventor**: [Ali Altaqui](https://patents.google.com/?inventor=Ali+Altaqui&assignee=Gamm&country=US&num=100&sort=new), [Steven John Robbins](https://patents.google.com/?inventor=Steven+John+Robbins&assignee=Gamm&country=US&num=100&sort=new), [Brian Schowengerdt](https://patents.google.com/?inventor=Brian+Schowengerdt&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Ali Altaqui](https://patents.google.com/?inventor=Ali+Altaqui&country=US&num=100&sort=new), [Steven John Robbins](https://patents.google.com/?inventor=Steven+John+Robbins&country=US&num=100&sort=new), [Brian Schowengerdt](https://patents.google.com/?inventor=Brian+Schowengerdt&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
@@ -1666,7 +1666,7 @@ categories: 其他
 **Pub. No.**: US20260059228
 
 **Applicant**: Google LLC  
-**Inventor**: [Mark William Starnes](https://patents.google.com/?inventor=Mark+William+Starnes&assignee=Gamm&country=US&num=100&sort=new), [Anthony King](https://patents.google.com/?inventor=Anthony+King&assignee=Gamm&country=US&num=100&sort=new)  
+**Inventor**: [Mark William Starnes](https://patents.google.com/?inventor=Mark+William+Starnes&country=US&num=100&sort=new), [Anthony King](https://patents.google.com/?inventor=Anthony+King&country=US&num=100&sort=new)  
 **Publication Date**: 26.02.2026
 
 **Abstract**:  
