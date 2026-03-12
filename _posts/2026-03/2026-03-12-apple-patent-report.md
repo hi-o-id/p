@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple 专利小块报 2026-03-12"
+title: "Apple 专利小快报 2026-03-12"
 date: 2026-03-12
 categories: Apple
 ---
