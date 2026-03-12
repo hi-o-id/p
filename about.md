@@ -13,5 +13,5 @@ permalink: /about/
 
 联系：x.com/hiid
 
-注：
-新专利 Google Patents 入库较晚，有些链接第一时间是 404，请使用 WIPO 或者以后再作访问
+注： 
+_新专利 Google Patents 入库较晚，有些链接第一时间是 404，请使用 WIPO 或者以后再作访问_
