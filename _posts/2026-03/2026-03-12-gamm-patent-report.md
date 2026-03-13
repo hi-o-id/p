@@ -1092,10 +1092,7 @@ categories: 其他
 
 <br/>
 
-### 28. ```json
-{
-  "title_cn": "用于文本修改的空中手势检测技术，以及使用这些技术的系统、可穿戴设备和方法的发明",
-  "abstract_cn": "一种示例方法包括在第一模式下显
+### 28. 用于文本修改的空中手势检测技术，以及使用这些技术的系统、可穿戴设备和方法的发明
 
 **Title (EN)**: TECHNIQUES FOR DETECTION OF IN-AIR HAND GESTURES FOR TEXT MODIFICATION, AND SYSTEMS, WEARABLE DEVICES, AND METHODS FOR USING THESE TECHNIQUES  
 **Pub. No.**: US20260056620
