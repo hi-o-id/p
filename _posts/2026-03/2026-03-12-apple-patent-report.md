@@ -172,10 +172,7 @@ categories: Apple
 
 <br/>
 
-### 5. ```json
-{
-  "title_cn": "具有增强元数据的空间和混合现实捕捉",
-  "abstract_cn": "本文披露了多种实现方式，包括将增强元数据整合到空间和/或混合现实捕捉环境中
+### 5. 具有增强元数据的空间和混合现实捕捉
 
 **Title (EN)**: SPATIAL AND MIXED REALITY CAPTURE WITH ENHANCED METADATA  
 **Pub. No.**: US20260065447
