@@ -68,6 +68,11 @@
       return Array.from(homeExpandedPosts);
     }
 
+    const fallbackScopes = document.querySelectorAll('.post-content.e-content');
+    if (fallbackScopes.length > 0) {
+      return Array.from(fallbackScopes);
+    }
+
     return [];
   }
 

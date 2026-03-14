@@ -97,6 +97,10 @@ html {
 @media (max-width: 900px) {
   .quick-toc {
     right: 8px;
+    width: 220px;
+    max-width: calc(100vw - 16px);
+    top: 72px;
+    max-height: calc(100vh - 84px);
     width: min(220px, calc(100vw - 16px));
     top: 72px;
     max-height: calc(100vh - 84px);
