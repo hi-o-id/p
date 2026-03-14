@@ -1,0 +1,10 @@
+---
+---
+
+@import "minima";
+
+.footnotes {
+    color: #828282;
+    border-top: 1px solid #828282;
+    font-size: 12px;
+}
