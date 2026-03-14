@@ -33,6 +33,28 @@ html {
 }
 
 .quick-toc__title {
+  display: block;
+  width: 100%;
+  margin: 0 0 8px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+  cursor: pointer;
+}
+
+.quick-toc.is-collapsed {
+  width: auto;
+}
+
+.quick-toc.is-collapsed .quick-toc__title {
+  margin-bottom: 0;
+}
+
+.quick-toc.is-collapsed .quick-toc__list {
+  display: none;
   margin: 0 0 8px;
   font-size: 14px;
   color: #666;

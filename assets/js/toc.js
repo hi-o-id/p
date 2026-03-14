@@ -60,6 +60,11 @@
     toc.className = 'quick-toc';
     toc.setAttribute('aria-label', '页面目录');
 
+    const title = document.createElement('button');
+    title.type = 'button';
+    title.className = 'quick-toc__title';
+    title.textContent = '专利条目';
+    title.setAttribute('aria-expanded', 'true');
     const title = document.createElement('h2');
     title.className = 'quick-toc__title';
     title.textContent = '目录';
@@ -84,6 +89,11 @@
 
     toc.appendChild(list);
     document.body.appendChild(toc);
+
+    title.addEventListener('click', () => {
+      const isCollapsed = toc.classList.toggle('is-collapsed');
+      title.setAttribute('aria-expanded', String(!isCollapsed));
+    });
 
     const links = Array.from(toc.querySelectorAll('.quick-toc__link'));
     const byId = new Map(links.map((link) => [link.dataset.targetId, link]));
