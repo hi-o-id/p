@@ -45,6 +45,15 @@ html {
   border-radius: 10px 10px 0 0;
   appearance: none;
   -webkit-appearance: none;
+  display: block;
+  width: calc(100% + 28px);
+  margin: -12px -14px 8px;
+  padding: 8px 14px 6px;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 0 8px;
+  padding: 0;
+  border: 0;
   text-align: center;
   font-size: 14px;
   color: #666;
@@ -54,6 +63,12 @@ html {
   z-index: 2;
   padding-bottom: 6px;
   background: #e8e8e8 !important;
+  background: #e8e8e8;
+  background: transparent;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+  cursor: pointer;
 }
 
 .quick-toc.is-collapsed {
@@ -66,6 +81,9 @@ html {
 
 .quick-toc.is-collapsed .quick-toc__list {
   display: none;
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: #666;
 }
 
 .quick-toc__list {
@@ -103,6 +121,13 @@ html {
 }
 
 /* 900px baseline for TOC visibility: <=900 hide, >900 show */
+
+/* 900px baseline for TOC visibility: <=900 hide, >900 show */
+
+.quick-toc {
+  display: block;
+}
+
 @media (max-width: 900px) {
   .quick-toc {
     display: none;
