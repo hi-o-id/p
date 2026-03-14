@@ -65,6 +65,9 @@
     title.className = 'quick-toc__title';
     title.textContent = '专利条目';
     title.setAttribute('aria-expanded', 'true');
+    const title = document.createElement('h2');
+    title.className = 'quick-toc__title';
+    title.textContent = '目录';
     toc.appendChild(title);
 
     const list = document.createElement('ol');
