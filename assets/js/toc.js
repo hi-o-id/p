@@ -103,6 +103,7 @@
       });
     });
 
+    if (!headings.length) return;
     if (!headingList.length) return;
 
     const existing = document.querySelector('.quick-toc');
@@ -165,6 +166,7 @@
 
     if ('IntersectionObserver' in window) {
       const observer = new IntersectionObserver(
+        (entries) => {
         function (entries) {
           const visible = entries
             .filter((entry) => entry.isIntersecting)
@@ -175,6 +177,14 @@
             if (byId.has(currentId)) setActive(currentId);
           }
         },
+        {
+          rootMargin: '-20% 0px -65% 0px',
+          threshold: [0, 1],
+        }
+      );
+
+      headings.forEach((heading) => {
+        const el = document.getElementById(heading.id);
         { rootMargin: '-20% 0px -65% 0px', threshold: [0, 1] }
       );
 
