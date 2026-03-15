@@ -67,6 +67,11 @@
       existingShell.parentNode.removeChild(existingShell);
     }
 
+    var existing = document.querySelector('.quick-toc');
+    if (existing && existing.parentNode) {
+      existing.parentNode.removeChild(existing);
+    }
+
     var shell = document.createElement('div');
     shell.className = 'quick-toc-shell';
 
@@ -104,7 +109,7 @@
 
     tab.addEventListener('click', function () {
       var isCollapsed = shell.classList.toggle('is-collapsed');
-      tab.setAttribute('aria-expanded', String(!isCollapsed));
+      title.setAttribute('aria-expanded', String(!isCollapsed));
     });
 
     var links = toArray(toc.querySelectorAll('.quick-toc__link'));
@@ -114,40 +119,24 @@
       linkById[link.getAttribute('data-target-id')] = link;
     });
 
+    function scrollActiveLinkIntoView(activeLink) {
+      if (!activeLink) return;
+      if (shell.classList.contains('is-collapsed')) return;
 
-    var headingIndexById = {};
-    var lastScrollY = window.scrollY || window.pageYOffset || 0;
-    var ACTIVATE_AHEAD_COUNT = 2;
-    var manualActiveId = null;
-    var manualActiveUntil = 0;
-    var manualActiveLockMs = 1200;
+      var linkTop = activeLink.offsetTop;
+      var linkBottom = linkTop + activeLink.offsetHeight;
+      var viewTop = toc.scrollTop;
+      var viewBottom = viewTop + toc.clientHeight;
 
-    headings.forEach(function (heading, index) {
-      headingIndexById[heading.id] = index;
-    });
+      if (linkTop < viewTop) {
+        toc.scrollTo({ top: linkTop - 8, behavior: 'smooth' });
+        return;
+      }
 
-    function pickBiasedActiveId(baseId) {
-      var baseIndex = headingIndexById[baseId];
-      if (typeof baseIndex !== 'number') return baseId;
-
-      var currentScrollY = window.scrollY || window.pageYOffset || 0;
-      var scrollingDown = currentScrollY >= lastScrollY;
-      lastScrollY = currentScrollY;
-
-      var targetIndex = scrollingDown
-        ? baseIndex + ACTIVATE_AHEAD_COUNT
-        : baseIndex - ACTIVATE_AHEAD_COUNT;
-
-      if (targetIndex < 0) targetIndex = 0;
-      if (targetIndex >= headings.length) targetIndex = headings.length - 1;
-
-      return headings[targetIndex].id;
+      if (linkBottom > viewBottom) {
+        toc.scrollTo({ top: linkBottom - toc.clientHeight + 8, behavior: 'smooth' });
+      }
     }
-
-
-    function isHeadingInActiveZone(headingId) {
-      var el = document.getElementById(headingId);
-      if (!el) return false;
 
       var rect = el.getBoundingClientRect();
       var zoneTop = window.innerHeight * 0.2;
@@ -193,10 +182,6 @@
       });
 
       scrollActiveLinkIntoView(linkById[id]);
-
-      if (shouldSyncHash) {
-        syncAddressHash(id);
-      }
     }
 
 
@@ -206,8 +191,8 @@
         if (!targetId) return;
 
         manualActiveId = targetId;
-        manualActiveUntil = Date.now() + manualActiveLockMs;
-        setActive(targetId, true);
+        manualActiveUntil = Date.now() + MANUAL_ACTIVE_LOCK_MS;
+        setActive(targetId);
       });
     });
 
@@ -218,16 +203,7 @@
           .sort(function (a, b) { return a.boundingClientRect.top - b.boundingClientRect.top; });
 
         if (visible.length > 0) {
-          if (manualActiveId) {
-            setActive(manualActiveId, true);
-
-            if (Date.now() >= manualActiveUntil && isHeadingInActiveZone(manualActiveId)) {
-              manualActiveId = null;
-            }
-            return;
-          }
-
-          setActive(pickBiasedActiveId(visible[0].target.id), true);
+          setActive(visible[0].target.id);
         }
       }, {
         rootMargin: '-20% 0px -65% 0px',
