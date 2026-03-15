@@ -24,6 +24,7 @@ html {
   width: 260px;
   z-index: 100;
 }
+}
 
 .quick-toc-tab {
   display: flex;
@@ -102,6 +103,16 @@ html {
 /* 900px baseline for TOC visibility: <=900 hide, >900 show */
 @media (max-width: 900px) {
   .quick-toc-shell {
+    }
+}
+/* 900px baseline for TOC visibility: <=900 hide, >900 show */
+
+.quick-toc {
+  display: block;
+}
+
+@media (max-width: 900px) {
+  .quick-toc {
     display: none;
   }
 }
