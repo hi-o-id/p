@@ -138,7 +138,45 @@
       }
     }
 
-    function setActive(id) {
+      var rect = el.getBoundingClientRect();
+      var zoneTop = window.innerHeight * 0.2;
+      var zoneBottom = window.innerHeight * 0.8;
+      return rect.top <= zoneBottom && rect.bottom >= zoneTop;
+    }
+
+    function scrollActiveLinkIntoView(activeLink) {
+      if (!activeLink) return;
+      if (shell.classList.contains('is-collapsed')) return;
+
+      var linkTop = activeLink.offsetTop;
+      var linkBottom = linkTop + activeLink.offsetHeight;
+      var viewTop = toc.scrollTop;
+      var viewBottom = viewTop + toc.clientHeight;
+
+      if (linkTop < viewTop) {
+        toc.scrollTo({ top: linkTop - 8, behavior: 'smooth' });
+        return;
+      }
+
+      if (linkBottom > viewBottom) {
+        toc.scrollTo({ top: linkBottom - toc.clientHeight + 8, behavior: 'smooth' });
+      }
+    }
+
+    var currentHashId = (window.location.hash || '').replace(/^#/, '');
+
+    function syncAddressHash(id) {
+      if (!id || id === currentHashId) return;
+      currentHashId = id;
+
+      if (window.history && window.history.replaceState) {
+        window.history.replaceState(null, '', '#' + id);
+      } else {
+        window.location.hash = id;
+      }
+    }
+
+    function setActive(id, shouldSyncHash) {
       links.forEach(function (link) {
         link.classList.toggle('is-active', link.getAttribute('data-target-id') === id);
       });
@@ -178,7 +216,7 @@
       });
     }
 
-    if (headings[0]) setActive(headings[0].id);
+    if (headings[0]) setActive(headings[0].id, false);
   }
 
   if (document.readyState === 'loading') {
