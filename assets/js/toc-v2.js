@@ -109,7 +109,7 @@
 
     tab.addEventListener('click', function () {
       var isCollapsed = shell.classList.toggle('is-collapsed');
-      title.setAttribute('aria-expanded', String(!isCollapsed));
+      tab.setAttribute('aria-expanded', String(!isCollapsed));
     });
 
     var links = toArray(toc.querySelectorAll('.quick-toc__link'));
@@ -119,30 +119,9 @@
       linkById[link.getAttribute('data-target-id')] = link;
     });
 
-    function scrollActiveLinkIntoView(activeLink) {
-      if (!activeLink) return;
-      if (shell.classList.contains('is-collapsed')) return;
-
-      var linkTop = activeLink.offsetTop;
-      var linkBottom = linkTop + activeLink.offsetHeight;
-      var viewTop = toc.scrollTop;
-      var viewBottom = viewTop + toc.clientHeight;
-
-      if (linkTop < viewTop) {
-        toc.scrollTo({ top: linkTop - 8, behavior: 'smooth' });
-        return;
-      }
-
-      if (linkBottom > viewBottom) {
-        toc.scrollTo({ top: linkBottom - toc.clientHeight + 8, behavior: 'smooth' });
-      }
-    }
-
-      var rect = el.getBoundingClientRect();
-      var zoneTop = window.innerHeight * 0.2;
-      var zoneBottom = window.innerHeight * 0.8;
-      return rect.top <= zoneBottom && rect.bottom >= zoneTop;
-    }
+    var MANUAL_ACTIVE_LOCK_MS = 1500;
+    var manualActiveId = null;
+    var manualActiveUntil = 0;
 
     function scrollActiveLinkIntoView(activeLink) {
       if (!activeLink) return;
@@ -177,13 +156,20 @@
     }
 
     function setActive(id, shouldSyncHash) {
+      if (manualActiveId && Date.now() < manualActiveUntil && id !== manualActiveId) {
+        return;
+      }
+
       links.forEach(function (link) {
         link.classList.toggle('is-active', link.getAttribute('data-target-id') === id);
       });
 
       scrollActiveLinkIntoView(linkById[id]);
-    }
 
+      if (shouldSyncHash !== false) {
+        syncAddressHash(id);
+      }
+    }
 
     links.forEach(function (link) {
       link.addEventListener('click', function () {
