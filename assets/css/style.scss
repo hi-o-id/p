@@ -21,7 +21,10 @@ html {
   position: fixed;
   top: 96px;
   right: 24px;
+  bottom: 96px;
   width: 260px;
+  display: flex;
+  flex-direction: column;
   z-index: 100;
 }
 
@@ -59,7 +62,7 @@ html {
 }
 
 .quick-toc-shell.is-collapsed {
-  width: auto;
+  width: 260px;
 }
 
 .quick-toc-shell.is-collapsed .quick-toc {
