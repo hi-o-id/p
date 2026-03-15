@@ -127,27 +127,80 @@
       if (!activeLink) return;
       if (shell.classList.contains('is-collapsed')) return;
 
-      // Use getBoundingClientRect for reliable position relative to the toc viewport
       var tocRect = toc.getBoundingClientRect();
-      var linkRect = activeLink.getBoundingClientRect();
+      var tocTop = tocRect.top;
+      var tocBottom = tocRect.bottom;
 
-      // How far the link sits from the top of the toc's scroll content
-      var linkScrollTop = linkRect.top - tocRect.top + toc.scrollTop;
-      var linkScrollBottom = linkScrollTop + linkRect.height;
+      // ── 1. Find visible links and where activeLink sits among them ──
+      var visibleLinks = [];
+      var activeVisibleIndex = -1;
 
-      // One link-height worth of padding so the neighbour is always visible
-      var pad = linkRect.height + 4;
+      for (var i = 0; i < links.length; i++) {
+        var r = links[i].getBoundingClientRect();
+        // A link counts as "visible" if more than half of it is inside the toc viewport
+        var midY = r.top + r.height / 2;
+        if (midY >= tocTop && midY <= tocBottom) {
+          if (links[i] === activeLink) activeVisibleIndex = visibleLinks.length;
+          visibleLinks.push(links[i]);
+        }
+      }
 
-      // Link is above the visible area → scroll up, leaving room to see the item above
-      if (linkRect.top < tocRect.top) {
-        toc.scrollTo({ top: Math.max(0, linkScrollTop - pad), behavior: 'smooth' });
+      // ── 2. Also find activeLink's overall index in the full links array ──
+      var activeGlobalIndex = -1;
+      for (var j = 0; j < links.length; j++) {
+        if (links[j] === activeLink) { activeGlobalIndex = j; break; }
+      }
+
+      // ── 3. Decide what to scroll to ──
+      // Helper: compute how far a link's top edge is from the toc's scroll origin
+      function linkScrollPos(link) {
+        return link.getBoundingClientRect().top - tocTop + toc.scrollTop;
+      }
+
+      var EDGE = 2; // "edge zone" = first/last 2 visible items
+
+      // Case A: activeLink is completely outside the visible area → just bring it in
+      var activeRect = activeLink.getBoundingClientRect();
+      var activeMid = activeRect.top + activeRect.height / 2;
+
+      if (activeMid < tocTop || activeMid > tocBottom) {
+        // Off-screen above → scroll so it lands ~3rd from top
+        if (activeMid < tocTop) {
+          var target = Math.max(0, activeGlobalIndex - EDGE);
+          toc.scrollTo({ top: linkScrollPos(links[target]), behavior: 'smooth' });
+        } else {
+          // Off-screen below → scroll so it lands ~3rd from bottom
+          var target = Math.min(links.length - 1, activeGlobalIndex + EDGE);
+          var pos = linkScrollPos(links[target]) + links[target].getBoundingClientRect().height - toc.clientHeight;
+          toc.scrollTo({ top: Math.max(0, pos), behavior: 'smooth' });
+        }
         return;
       }
 
-      // Link is below the visible area → scroll down, leaving room to see the item below
-      if (linkRect.bottom > tocRect.bottom) {
-        toc.scrollTo({ top: linkScrollBottom - toc.clientHeight + pad, behavior: 'smooth' });
+      // Case B: activeLink IS visible but in the edge zone → nudge the list
+      if (activeVisibleIndex < 0) return; // shouldn't happen, but safety
+
+      var totalVisible = visibleLinks.length;
+
+      // Near the TOP of visible area (1st or 2nd visible item)
+      // → scroll up so the item above becomes visible
+      if (activeVisibleIndex < EDGE && activeGlobalIndex > 0) {
+        // Scroll so that one item above the active link is at the top of toc
+        var showFrom = Math.max(0, activeGlobalIndex - 1);
+        toc.scrollTo({ top: linkScrollPos(links[showFrom]), behavior: 'smooth' });
+        return;
       }
+
+      // Near the BOTTOM of visible area (last or 2nd-to-last visible item)
+      // → scroll down so the item below becomes visible
+      if (activeVisibleIndex >= totalVisible - EDGE && activeGlobalIndex < links.length - 1) {
+        var showUntil = Math.min(links.length - 1, activeGlobalIndex + 1);
+        var pos = linkScrollPos(links[showUntil]) + links[showUntil].getBoundingClientRect().height - toc.clientHeight;
+        toc.scrollTo({ top: Math.max(0, pos), behavior: 'smooth' });
+        return;
+      }
+
+      // Otherwise: activeLink is comfortably in the middle, no scrolling needed
     }
 
     var currentHashId = (window.location.hash || '').replace(/^#/, '');
