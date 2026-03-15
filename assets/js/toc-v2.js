@@ -2,10 +2,11 @@
   function slugify(text) {
     return String(text || '')
       .toLowerCase()
-      .replace(/^\s+|\s+$/g, '')
+      .trim()
       .replace(/[\s\u00A0]+/g, '-')
       .replace(/[^\w\-\u4e00-\u9fa5]/g, '')
-      .replace(/\-+/g, '-');
+      .replace(/\-+/g, '-')
+      .replace(/^-+|-+$/g, '');
   }
 
   function toArray(nodeList) {
@@ -37,9 +38,9 @@
     var headings = [];
 
     scopes.forEach(function (scope, scopeIndex) {
-      toArray(scope.querySelectorAll('h2, h3')).forEach(function (heading) {
+      toArray(scope.querySelectorAll('h2, h3')).forEach(function (heading, headingIndex) {
         var id = heading.id || slugify(heading.textContent || 'section');
-        if (!id) id = 'section-' + (scopeIndex + 1);
+        if (!id) id = 'section-' + (scopeIndex + 1) + '-' + (headingIndex + 1);
 
         var baseId = id;
         var n = 2;
@@ -53,7 +54,7 @@
 
         headings.push({
           id: id,
-          text: (heading.textContent || '').replace(/^\s+|\s+$/g, ''),
+          text: (heading.textContent || '').trim(),
           level: (heading.tagName || '').toLowerCase()
         });
       });
@@ -74,12 +75,12 @@
     var shell = document.createElement('div');
     shell.className = 'quick-toc-shell';
 
-    var title = document.createElement('button');
-    title.type = 'button';
-    title.className = 'quick-toc-tab';
-    title.textContent = '专利条目';
-    title.setAttribute('aria-expanded', 'true');
-    shell.appendChild(title);
+    var tab = document.createElement('button');
+    tab.type = 'button';
+    tab.className = 'quick-toc-tab';
+    tab.textContent = '专利条目';
+    tab.setAttribute('aria-expanded', 'true');
+    shell.appendChild(tab);
 
     var toc = document.createElement('aside');
     toc.className = 'quick-toc';
@@ -106,7 +107,7 @@
     shell.appendChild(toc);
     document.body.appendChild(shell);
 
-    title.addEventListener('click', function () {
+    tab.addEventListener('click', function () {
       var isCollapsed = shell.classList.toggle('is-collapsed');
       title.setAttribute('aria-expanded', String(!isCollapsed));
     });
@@ -126,8 +127,7 @@
           .sort(function (a, b) { return a.boundingClientRect.top - b.boundingClientRect.top; });
 
         if (visible.length > 0) {
-          var currentId = visible[0].target.id;
-          setActive(currentId);
+          setActive(visible[0].target.id);
         }
       }, {
         rootMargin: '-20% 0px -65% 0px',
