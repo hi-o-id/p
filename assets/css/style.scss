@@ -62,6 +62,10 @@ html {
 }
 
 .quick-toc-shell.is-collapsed {
+  width: 260px;
+}
+
+.quick-toc-shell.is-collapsed .quick-toc {
   display: none;
 }
 
