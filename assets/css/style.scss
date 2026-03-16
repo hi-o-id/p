@@ -96,7 +96,9 @@ html {
 .quick-toc__link:hover {
   color: #111;
 }
-
+.quick-toc__link a:visited {
+     color: #553798;
+}
 .quick-toc__link.is-active {
   color: #111;
   border-left-color: #2a7ae2;
