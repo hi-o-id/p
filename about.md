@@ -17,5 +17,5 @@ permalink: /about/
 
 [^1]: 通常 USPTO 在美国时间周四更新，数据可完整地公开访问则会有延迟，网站自动更新通常发生在周末   
 [^2]: 新专利在 Google Patents 入库较晚，链向 Google 的链接第一时间可能是 404，请使用 WIPO 或以后再作访问   
-[^3]: 本站内容的筛选和转译均由 LLM 完成，LLM 会出错，请以原文为准   
-[^4]: 在 USPTO 的[高级搜索](https://ppubs.uspto.gov/pubwebapp/)手动搜索，是最快获取公开专利信息的方式   
+[^3]: 在 USPTO 的[高级搜索](https://ppubs.uspto.gov/pubwebapp/)手动搜索，是最快获取公开专利信息的方式   
+[^4]: 本站内容的筛选和转译均由 LLM 完成，LLM 会出错，请以原文为准   
