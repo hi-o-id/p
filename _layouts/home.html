@@ -15,28 +15,31 @@ layout: default
     {%- assign digest_count = 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
-        {%- if post.categories contains '手选' and digest_count < 10 -%}
-          {%- assign digest_count = digest_count | plus: 1 -%}
-          <li>
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <h3>
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            </h3>
-            <div class="post-content e-content">{{ post.content }}</div>
-          </li>
+        {%- if post.categories contains 'digest' -%}
+          {%- if digest_count < 10 -%}
+            {%- assign digest_count = digest_count | plus: 1 -%}
+            <li>
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              </h3>
+              <div class="post-content e-content">{{ post.content }}</div>
+            </li>
+          {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
     </ul>
 
     {%- if digest_count == 0 -%}
-      <p>暂无手选内容。</p>
+      <p>暂无 digest 内容。</p>
     {%- endif -%}
   {%- else -%}
     {%- assign weekly_count = 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
-        {%- unless post.categories contains '手选' -%}
+        {%- if post.categories contains 'digest' -%}
+        {%- else -%}
           {%- assign weekly_count = weekly_count | plus: 1 -%}
           <li>
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -48,7 +51,7 @@ layout: default
               <div class="post-content e-content">{{ post.content }}</div>
             {%- endif -%}
           </li>
-        {%- endunless -%}
+        {%- endif -%}
       {%- endfor -%}
     </ul>
 
