@@ -12,9 +12,10 @@ layout: default
   {%- include home-switcher.html active=home_mode -%}
 
   {%- if home_mode == 'digest' -%}
+      {%- assign sorted_posts = site.posts | sort: "date" | reverse -%}
       {%- assign digest_count = 0 -%}
       <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in sorted_posts -%}
         {%- assign is_digest_post = false -%}
         {%- if post.categories contains '手选' or post.categories contains 'digest' -%}
           {%- assign is_digest_post = true -%}
@@ -37,9 +38,10 @@ layout: default
       <p>暂无 digest 内容。</p>
     {%- endif -%}
   {%- else -%}
+      {%- assign sorted_posts = site.posts | sort: "date" | reverse -%}
       {%- assign weekly_count = 0 -%}
       <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in sorted_posts -%}
         {%- assign is_digest_post = false -%}
         {%- if post.categories contains '手选' or post.categories contains 'digest' -%}
           {%- assign is_digest_post = true -%}
