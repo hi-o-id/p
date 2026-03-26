@@ -9,7 +9,7 @@ layout: default
   {{ content }}
 
   {%- assign home_mode = page.home_mode | default: 'weekly' -%}
-  {%- include home-switcher.html active=home_mode -%}
+  {%- include home-switcher.html -%}
 
   {%- if home_mode == 'digest' -%}
       {%- assign digest_posts = site.posts
