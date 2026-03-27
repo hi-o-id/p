@@ -27,8 +27,10 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    {%- if digest_count == 0 -%}
+      {%- if digest_count == 0 -%}
       <p>暂无 digest 内容。</p>
+    {%- elsif digest_count > 10 -%}
+      <nav class="home-pagination js-digest-pagination" aria-label="Digest 分页"></nav>
     {%- endif -%}
   {%- else -%}
       {%- assign all_posts = site.posts | sort: "date" | reverse -%}
@@ -56,6 +58,8 @@ layout: default
 
     {%- if weekly_count == 0 -%}
       <p>暂无快报内容。</p>
+    {%- elsif weekly_count > 10 -%}
+      <nav class="home-pagination js-weekly-pagination" aria-label="Weekly 分页"></nav>
     {%- endif -%}
   {%- endif -%}
 
