@@ -32,6 +32,9 @@ layout: default
     {%- elsif digest_count > 10 -%}
       <nav class="home-pagination js-digest-pagination" aria-label="Digest 分页"></nav>
     {%- endif -%}
+
+    <nav class="home-pagination js-pagination-nav" aria-label="Digest 分页"></nav>
+
   {%- else -%}
       {%- assign all_posts = site.posts | sort: "date" | reverse -%}
       {%- assign weekly_posts = "" | split: "" -%}
@@ -61,6 +64,9 @@ layout: default
     {%- elsif weekly_count > 10 -%}
       <nav class="home-pagination js-weekly-pagination" aria-label="Weekly 分页"></nav>
     {%- endif -%}
+
+    <nav class="home-pagination js-pagination-nav" aria-label="Weekly 分页"></nav>
+
   {%- endif -%}
 
   <nav class="home-pagination" aria-label="页面分页"></nav>
