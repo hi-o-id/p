@@ -5,6 +5,7 @@ url: "https://hi-o-id.github.io"
 baseurl: "/p"
 lang: "zh-CN"
 timezone: "Asia/Shanghai"
+future: true
 
 google_analytics: "G-9QBC2W58K4"
 
